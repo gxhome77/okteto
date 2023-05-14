@@ -1,5 +1,5 @@
 services:
-  2winvr:
+  okvtwo:
     build: .
     shm_size: 2.6gb
     ports:
